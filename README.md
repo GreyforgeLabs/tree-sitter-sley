@@ -71,7 +71,7 @@
 
     Draft description: Parse and highlight Sley source with Tree-sitter so modules, tasks, takes, effects, bindings, and checked calls are readable in editors.
 
-    Future canonical URL: `https://sley.dev/tools/tree-sitter-sley`
+    Future canonical URL: `https://sley.greyforge.tech/tools/tree-sitter-sley`
 
     GitHub URL while private: `https://github.com/GreyforgeLabs/tree-sitter-sley`
 

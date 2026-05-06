@@ -2,7 +2,7 @@
   "consumed_roots": [
     "human-reviewable .sley source"
   ],
-  "future_url": "https://sley.dev/tools/tree-sitter-sley",
+  "future_url": "https://sley.greyforge.tech/tools/tree-sitter-sley",
   "github": "https://github.com/GreyforgeLabs/tree-sitter-sley",
   "name": "tree-sitter-sley",
   "primary_user": "editor users, documentation authors, and review tool builders",

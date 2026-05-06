@@ -6,6 +6,11 @@
   "task"
   "type"
   "effect"
+  "if"
+  "else"
+  "while"
+  "each"
+  "in"
   "take"
   "gate"
   "bind"
@@ -13,13 +18,9 @@
   "tally"
   "set"
   "return"
-  "if"
-  "else"
-  "while"
-  "each"
-  "in"
   "uses"
   "call"
+  "@"
 ] @keyword
 
 (identifier) @variable
