@@ -8,7 +8,7 @@
   "primary_user": "editor users, documentation authors, and review tool builders",
   "priority": "P0",
   "schema": "sley.tool.manifest.v0",
-  "status": "private_scaffold",
+  "status": "private_sley_native_source",
   "title": "Tree-sitter Sley",
   "utility": "syntax grammar"
 }

@@ -2,8 +2,10 @@
 
     Tree-sitter grammar, highlight queries, and editor parser scaffolding for Sley source.
 
-    Status: private Sley ecosystem scaffold. This repository is intentionally
-    built as a detailed starting point before public release.
+Status: private Sley ecosystem scaffold. This repository is intentionally
+built as a detailed starting point before public release.
+
+Implementation reality: Sley-native source-of-truth is now in `src/tool.sley`; Tree-sitter grammar and queries remain temporary until a Sley parser emitter exists.
 
     ## Why This Exists
 
