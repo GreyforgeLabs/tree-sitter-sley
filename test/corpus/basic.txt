@@ -1,0 +1,9 @@
+====
+module and task
+====
+module app.main
+
+task main -> Text {
+  return "ok"
+}
+----

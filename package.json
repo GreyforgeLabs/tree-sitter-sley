@@ -1,0 +1,21 @@
+{
+  "bin": {
+    "tree-sitter-sley-smoke": "./test/smoke.mjs"
+  },
+  "description": "Tree-sitter grammar, highlight queries, and editor parser scaffolding for Sley source.",
+  "keywords": [
+    "sley",
+    "developer-tools",
+    "syntax grammar"
+  ],
+  "license": "MIT",
+  "name": "tree-sitter-sley",
+  "private": true,
+  "scripts": {
+    "fmt": "node test/check-format.mjs",
+    "smoke": "node test/smoke.mjs",
+    "test": "node test/smoke.mjs"
+  },
+  "type": "module",
+  "version": "0.0.0-private"
+}
