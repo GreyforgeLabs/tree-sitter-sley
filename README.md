@@ -2,8 +2,7 @@
 
     Tree-sitter grammar, highlight queries, and editor parser scaffolding for Sley source.
 
-Status: private Sley ecosystem scaffold. This repository is intentionally
-built as a detailed starting point before public release.
+Status: public Sley ecosystem scaffold. This repository is intended for public use with a stable, versioned contract surface.
 
 Implementation reality: Sley-native source-of-truth is now in `src/tool.sley`; Tree-sitter grammar and queries remain temporary until a Sley parser emitter exists.
 
@@ -57,7 +56,7 @@ Implementation reality: Sley-native source-of-truth is now in `src/tool.sley`; T
 
     ## Release Policy
 
-    This repository stays private until:
+    This repository is public once:
 
     - consumed Sley schema versions are declared;
     - deterministic local tests pass;
@@ -75,7 +74,7 @@ Implementation reality: Sley-native source-of-truth is now in `src/tool.sley`; T
 
     Future canonical URL: `https://sley.greyforge.tech/tools/tree-sitter-sley`
 
-    GitHub URL while private: `https://github.com/GreyforgeLabs/tree-sitter-sley`
+    GitHub URL: `https://github.com/GreyforgeLabs/tree-sitter-sley`
 
     ## License
 

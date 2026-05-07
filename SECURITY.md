@@ -1,6 +1,6 @@
 # Security
 
-`tree-sitter-sley` is pre-release private software.
+`tree-sitter-sley` is pre-release software.
 
 Do not place secrets, credentials, private endpoints, deployment tokens, or
 provider keys in this repository. Tests must remain deterministic and local.
