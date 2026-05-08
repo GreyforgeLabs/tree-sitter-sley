@@ -68,11 +68,11 @@ Implementation reality: Sley-native source-of-truth is now in `src/tool.sley`; T
 
     ## SEO Surface
 
-    Draft SEO title: `Tree-sitter Sley - AI-native parser surface`
+    SEO title: `Tree-sitter Sley - AI-native parser surface`
 
-    Draft description: Parse and highlight Sley source with Tree-sitter so AI-optimized editors can work with modules, tasks, takes, effects, and checked-call structures.
+    SEO description: Parse and highlight Sley source with Tree-sitter so AI-optimized editors can work with modules, tasks, authority, and checked-call structures.
 
-    Future canonical URL: `https://sleylang.org/tools/tree-sitter-sley`
+    Canonical URL: `https://sleylang.org/tools/tree-sitter-sley`
 
     GitHub URL: `https://github.com/GreyforgeLabs/tree-sitter-sley`
 
